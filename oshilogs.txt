@@ -12,73 +12,67 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Kaiva =====
-[1]Kaiva       |07:03:54 | 24-10-2026| login OK @mkaivaa | score=1830 rank=4110
-[1]Kaiva       |07:03:54 | 24-10-2026| serverTime=2026-10-24T07:03:54.000Z local=2026-10-24T07:03:54.958Z
+[1]Kaiva       |05:44:53 | 26-10-2026| login OK @mkaivaa | score=2040 rank=3897
+[1]Kaiva       |05:44:53 | 26-10-2026| serverTime=2026-10-26T05:44:53.000Z local=2026-10-26T05:44:53.864Z
 --> [1]Kaiva menjalankan: Claim Daily
-[1]Kaiva       |07:03:56 | 24-10-2026| daily: OK +10 poin score=1840
---> [1]Kaiva menjalankan: Auto All Tasks (7 pending)
-[1]Kaiva       |07:03:58 | 24-10-2026| [1/7] 50de6b49 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/mkaivaa/status/2113888948189737745
-[1]Kaiva       |07:03:58 | 24-10-2026| delay 10s...
-[1]Kaiva       |07:04:10 | 24-10-2026| [2/7] b772e482 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":20,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/mkaivaa/status/2113889001489252100
-[1]Kaiva       |07:04:10 | 24-10-2026| delay 10s...
-[1]Kaiva       |07:04:24 | 24-10-2026| [3/7] 58e687d8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":20,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/mkaivaa/status/2113888786846202815
-[1]Kaiva       |07:04:24 | 24-10-2026| delay 10s...
-[1]Kaiva       |07:04:36 | 24-10-2026| [4/7] 63ae925f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":20,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/mkaivaa/status/2113888978004764673
-[1]Kaiva       |07:04:36 | 24-10-2026| delay 10s...
-[1]Kaiva       |07:04:48 | 24-10-2026| [5/7] c7d975e4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/mkaivaa/status/2113888885703367119
-[1]Kaiva       |07:04:48 | 24-10-2026| delay 10s...
-[1]Kaiva       |07:05:00 | 24-10-2026| [6/7] f59f95ce (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/mkaivaa/status/2113888955789669368
-[1]Kaiva       |07:05:00 | 24-10-2026| delay 10s...
-[1]Kaiva       |07:05:13 | 24-10-2026| [7/7] 63f05488 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/mkaivaa/status/2113889098721296967
-[1]Kaiva       |07:05:13 | 24-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Kaiva       |07:05:14 | 24-10-2026| [1/1] 50de6b49 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113851006337568 | proof=https://x.com/mkaivaa/status/2113889086896521490
+[1]Kaiva       |05:44:54 | 26-10-2026| daily: OK +10 poin score=2050
+--> [1]Kaiva menjalankan: Auto All Tasks (8 pending)
+[1]Kaiva       |05:44:56 | 26-10-2026| [1/8] 30fecda0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/mkaivaa/status/2114593628844387552
+[1]Kaiva       |05:44:56 | 26-10-2026| delay 10s...
+[1]Kaiva       |05:45:09 | 26-10-2026| [2/8] 1db0caec (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/mkaivaa/status/2114593661984647397
+[1]Kaiva       |05:45:09 | 26-10-2026| delay 10s...
+[1]Kaiva       |05:45:21 | 26-10-2026| [3/8] 494e1b1b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/mkaivaa/status/2114593604959187830
+[1]Kaiva       |05:45:21 | 26-10-2026| delay 10s...
+[1]Kaiva       |05:45:33 | 26-10-2026| [4/8] 9b683957 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/mkaivaa/status/2114593952738926798
+[1]Kaiva       |05:45:33 | 26-10-2026| delay 10s...
+[1]Kaiva       |05:45:45 | 26-10-2026| [5/8] 4262aa80 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/mkaivaa/status/2114593923070063427
+[1]Kaiva       |05:45:45 | 26-10-2026| delay 10s...
+[1]Kaiva       |05:45:57 | 26-10-2026| [6/8] ed948baf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/mkaivaa/status/2114593822947410505
+[1]Kaiva       |05:45:57 | 26-10-2026| delay 10s...
+[1]Kaiva       |05:46:09 | 26-10-2026| [7/8] d23e8d85 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/mkaivaa/status/2114594142854591305
+[1]Kaiva       |05:46:09 | 26-10-2026| delay 10s...
+[1]Kaiva       |05:46:21 | 26-10-2026| [8/8] 33550c8b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/mkaivaa/status/2114593991019785211
+[1]Kaiva       |05:46:21 | 26-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Kaiva       |05:46:22 | 26-10-2026| [1/1] 30fecda0 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2114543843555385 | proof=https://x.com/mkaivaa/status/2114593986163384521
 --> [1]Kaiva menjalankan: Watch Anime
-[1]Kaiva       |07:05:15 | 24-10-2026| watch: semua video sudah completed
+[1]Kaiva       |05:46:23 | 26-10-2026| watch: semua video sudah completed
 --> [1]Kaiva menjalankan: Read Article
-[1]Kaiva       |07:05:17 | 24-10-2026| news: 27/30 artikel selesai dibaca
-[1]Kaiva       |07:05:17 | 24-10-2026| mint eligibility: {"userId":"1774447611547959296","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@kaivamaulida","status":"submitted","revision":"1f1aa336-891c-485b-9c36-31357ff44
-[1]Kaiva       |07:05:23 | 24-10-2026| news [1/3] road-to-mint-2026-10: OK completed=28
-[1]Kaiva       |07:05:33 | 24-10-2026| news [2/3] community-first-update-2026-10: OK completed=29
-[1]Kaiva       |07:05:41 | 24-10-2026| news [3/3] oshi-nft-price-and-basic-income-01: OK completed=30
+[1]Kaiva       |05:46:25 | 26-10-2026| news: 30/30 artikel selesai dibaca
+[1]Kaiva       |05:46:25 | 26-10-2026| mint eligibility: {"userId":"1774447611547959296","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@kaivamaulida","status":"submitted","revision":"1f1aa336-891c-485b-9c36-31357ff44
+[1]Kaiva       |05:46:25 | 26-10-2026| news: semua artikel sudah dibaca
 --> [1]Kaiva menjalankan: Quiz Anime
-[1]Kaiva       |07:05:43 | 24-10-2026| quiz ep1: sudah dijawab
-[1]Kaiva       |07:05:43 | 24-10-2026| quiz ep2: sudah dijawab
-[1]Kaiva       |07:05:43 | 24-10-2026| quiz ep3: sudah dijawab
-[1]Kaiva       |07:05:43 | 24-10-2026| quiz ep4: sudah dijawab
-[1]Kaiva       |07:05:43 | 24-10-2026| quiz ep5: sudah dijawab
-[1]Kaiva       |07:05:43 | 24-10-2026| quiz ep6: sudah dijawab
 --> [1]Kaiva menjalankan: Music Missions (realtime, bisa lama!)
-[1]Kaiva       |07:05:45 | 24-10-2026| music: kedua misi sudah tercapai, stop
-[1]Kaiva       |07:05:47 | 24-10-2026| mission music-listens-10: sudah diklaim
-[1]Kaiva       |07:05:47 | 24-10-2026| mission music-minutes-30: sudah diklaim
-[1]Kaiva       |07:05:47 | 24-10-2026| mission anime-completed-3: sudah diklaim
+[1]Kaiva       |05:46:28 | 26-10-2026| music: kedua misi sudah tercapai, stop
+[1]Kaiva       |05:46:28 | 26-10-2026| mission music-listens-10: sudah diklaim
+[1]Kaiva       |05:46:28 | 26-10-2026| mission music-minutes-30: sudah diklaim
+[1]Kaiva       |05:46:28 | 26-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Kaiva menjalankan: Claim Missions
-[1]Kaiva       |07:05:47 | 24-10-2026| mission music-listens-10: sudah diklaim
-[1]Kaiva       |07:05:47 | 24-10-2026| mission music-minutes-30: sudah diklaim
-[1]Kaiva       |07:05:47 | 24-10-2026| mission anime-completed-3: sudah diklaim
+[1]Kaiva       |05:46:29 | 26-10-2026| mission music-listens-10: sudah diklaim
+[1]Kaiva       |05:46:29 | 26-10-2026| mission music-minutes-30: sudah diklaim
+[1]Kaiva       |05:46:29 | 26-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Kaiva menjalankan: Check Eligibility
 
 --- eligibility [1]Kaiva ---
-  @mkaivaa | score=1830 rank=4110
-  tasks    [##############------] 16/23
+  @mkaivaa | score=2040 rank=3897
+  tasks    [--------------------] 0/8
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
-  quiz     [####################] 6/6
+  quiz     [?]
   watch    [####################] 22/17
-  music    [####################] 11/11
+  music    [##################--] 11/12
   artikel  [####################] 30/30
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Kaiva menjalankan: Read Manga
-[1]Kaiva       |07:05:52 | 24-10-2026| manga: 0/13 chapter belum completed
+[1]Kaiva       |05:46:33 | 26-10-2026| manga: 0/13 chapter belum completed
 --> [1]Kaiva menjalankan: Get Gift
-[1]Kaiva       |07:05:53 | 24-10-2026| gift: 0/4 belum diterima
+[1]Kaiva       |05:46:33 | 26-10-2026| gift: 0/4 belum diterima
 --> [1]Kaiva menjalankan: Setup Profile
-[1]Kaiva       |07:05:53 | 24-10-2026| profile: bio="https://x.com/mkaivaa" fav=amato rewardAt=1791825104
-[1]Kaiva       |07:05:53 | 24-10-2026| profile: bonus sudah diklaim, skip
+[1]Kaiva       |05:46:34 | 26-10-2026| profile: bio="https://x.com/mkaivaa" fav=amato rewardAt=1791825104
+[1]Kaiva       |05:46:34 | 26-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Kaiva menjalankan: Bind Wallet
-[1]Kaiva       |07:05:54 | 24-10-2026| wallet: sudah terikat FnL2HqDyhn... (solana)
+[1]Kaiva       |05:46:34 | 26-10-2026| wallet: sudah terikat FnL2HqDyhn... (solana)
 
 == RINGKASAN ==
-- Kaiva: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 3 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Kaiva: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
